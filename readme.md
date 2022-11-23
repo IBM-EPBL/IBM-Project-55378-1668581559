@@ -7,7 +7,7 @@ Team Members:
          Uthayachandran .D
          Vasanth .A
 Software Required:
-html,css,javascript,react
+html,css,javascript,Python,Dockerfile
 
 System Required:
 8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
